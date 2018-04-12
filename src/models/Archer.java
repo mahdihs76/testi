@@ -9,4 +9,10 @@ public class Archer extends Soldier {
     public void drink() {
         // TODO: 4/9/18  
     }
+
+    @Override
+    public void eat() {
+
+
+    }
 }
